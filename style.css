@@ -1,0 +1,17 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+}
+
+#meumapa {
+	height: 100%;
+	width: 100%;
+}
+
+#bairrosCwb = {
+    fillColor: "#f0ceab",
+    color: "#000",
+    opacity: 0.8,
+    fillOpacity: 0.5
+};
